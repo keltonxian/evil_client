@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>frozen_1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{372,500}}</string>
+                <key>offset</key>
+                <string>{-4,2}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{2,4},{372,500}}</string>
+                <key>sourceSize</key>
+                <string>{384,512}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>frozen.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:c75a71f37fe319e0f5a5508efd0a16f3:6c046f2d4d0be63f6d6744be609b5452:b15cbd8120b932f0061cdae9ff31a096$</string>
+            <key>textureFileName</key>
+            <string>frozen.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

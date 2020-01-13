@@ -1,0 +1,4 @@
+1. test luajit
+2. vc2012 redist
+3. test std::thread in LayerSocket
+4. xcode build multi target in command line ( cocos run -p ios )

@@ -1,0 +1,13 @@
+\\\\\\\\,width,height,,,,,,,,
+ref_screen,640,960,,,,,,,,
+key,filename1,filename2,x_psd,y_psd,width,height,z_order,is_toggle,label_1,label_2
+bg,bg_72.png,0,100,138,440,678,25,0,0,0
+close,btn_44.png,btn_44_s.png,492,175,40,40,30,0,0,0
+bg_cell,bg_73.png,0,118,254,401,86,35,0,0,0
+icon,icon_10.png,0,123,258,88,77,40,0,0,0
+bg_detail,bg_74.png,bg_74_s.png,211,258,302,77,40,0,0,0
+title,0,0,223,272,150,24,45,0,0,0
+detail,0,0,223,291,150,38,45,0,0,0
+price,0,0,446,296,62,22,45,0,0,0
+table,0,0,118,254,401,515,45,0,0,0
+rmb,pic_53.png,0,392,286,54,22,45,0,0,0

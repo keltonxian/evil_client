@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>cobweb_1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{380,506}}</string>
+                <key>offset</key>
+                <string>{-1,3}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{1,0},{380,506}}</string>
+                <key>sourceSize</key>
+                <string>{384,512}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>cobweb.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:e7bcfc7e63b42e39d7108d83a27095fb:8dcca67f54f1d33d2ae8ff3ae5363c66:2658f6b706da8233e9d6b009b2622171$</string>
+            <key>textureFileName</key>
+            <string>cobweb.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

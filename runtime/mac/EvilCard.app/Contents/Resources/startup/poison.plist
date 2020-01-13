@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>poison_1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{384,512}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{384,512}}</string>
+                <key>sourceSize</key>
+                <string>{384,512}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>poison.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:1b852ce2fac0dc9c2550eb23467ff7a0:8667e3a5a17a2312c36ab570398b0cc2:532fd58ade249788d58ca52f91c15092$</string>
+            <key>textureFileName</key>
+            <string>poison.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

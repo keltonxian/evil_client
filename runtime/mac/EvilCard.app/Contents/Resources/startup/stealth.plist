@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>stealth_1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{372,500}}</string>
+                <key>offset</key>
+                <string>{-4,2}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{2,4},{372,500}}</string>
+                <key>sourceSize</key>
+                <string>{384,512}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>stealth.pvr.ccz</string>
+            <key>size</key>
+            <string>{512,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:7fa9b2b2b660282f1e73451d01737c01:1cb3359e5dde70cf1770ea3fc8e1ec36:b185cb0df5ba7ae2b913105cc6721f95$</string>
+            <key>textureFileName</key>
+            <string>stealth.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>
